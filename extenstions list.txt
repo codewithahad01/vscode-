@@ -1,3 +1,13 @@
+get packeges list by typing this command in terminal:
+
+code --list-extensions | xargs -L 1 echo --install-extension
+
+
+
+
+
+here is the list of my extensions:
+
 --install-extension aaron-bond.better-comments
 --install-extension akamud.vscode-theme-onedark
 --install-extension CoenraadS.bracket-pair-colorizer-2
