@@ -1,0 +1,22 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "dart.openDevTools": "flutter",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "workbench.colorTheme": "Deepdark Material Theme | Default Version",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "window.zoomLevel": 1,
+    "git.suggestSmartCommit": false,
+    "git.confirmSync": false
+}
