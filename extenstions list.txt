@@ -10,11 +10,14 @@ here is the list of my extensions:
 
 --install-extension aaron-bond.better-comments
 --install-extension akamud.vscode-theme-onedark
+--install-extension christian-kohler.npm-intellisense
 --install-extension CoenraadS.bracket-pair-colorizer-2
 --install-extension Dart-Code.dart-code
 --install-extension Dart-Code.flutter
 --install-extension dbaeumer.vscode-eslint
 --install-extension dsznajder.es7-react-js-snippets
+--install-extension dzannotti.vscode-babel-coloring
+--install-extension eg2.vscode-npm-script
 --install-extension esbenp.prettier-vscode
 --install-extension firefox-devtools.vscode-firefox-debug
 --install-extension fisheva.eva-theme
@@ -25,17 +28,21 @@ here is the list of my extensions:
 --install-extension leizongmin.node-module-intellisense
 --install-extension liviuschera.noctis
 --install-extension miramac.vscode-exec-node
+--install-extension mongodb.mongodb-vscode
 --install-extension ms-azuretools.vscode-docker
 --install-extension ms-python.python
 --install-extension ms-python.vscode-pylance
 --install-extension ms-toolsai.jupyter
 --install-extension ms-toolsai.jupyter-keymap
+--install-extension ms-toolsai.jupyter-renderers
 --install-extension msjsdiag.debugger-for-chrome
 --install-extension Nimda.deepdark-material
 --install-extension oderwat.indent-rainbow
 --install-extension PKief.material-icon-theme
 --install-extension ritwickdey.LiveServer
 --install-extension silvenon.mdx
+--install-extension tristanremy.mirage
 --install-extension vangware.dark-plus-material
 --install-extension VisualStudioExptTeam.vscodeintellicode
+--install-extension yuichinukiyama.vscode-preview-server
 --install-extension zhuangtongfa.material-theme
