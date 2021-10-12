@@ -1,3 +1,6 @@
+
+updated setting: 
+
 {
     "workbench.iconTheme": "material-icon-theme",
     "dart.openDevTools": "flutter",
@@ -14,9 +17,21 @@
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter.notebook.ipynb"
     },
-    "workbench.colorTheme": "Deepdark Material Theme | Default Version",
+    "workbench.colorTheme": "Mirage (High-contrast)",
     "liveServer.settings.donotShowInfoMsg": true,
-    "window.zoomLevel": 1,
     "git.suggestSmartCommit": false,
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "window.zoomLevel": 1
 }
