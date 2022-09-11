@@ -1,8 +1,8 @@
 
 updated setting: 
 
+
 {
-    "workbench.iconTheme": "material-icon-theme",
     "dart.openDevTools": "flutter",
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
@@ -12,12 +12,9 @@ updated setting:
         "**/.settings": true,
         "**/.factorypath": true
     },
-    "files.autoSave": "afterDelay",
     "explorer.confirmDragAndDrop": false,
     "workbench.editorAssociations": {
-        "*.ipynb": "jupyter.notebook.ipynb"
     },
-    "workbench.colorTheme": "Mirage (High-contrast)",
     "liveServer.settings.donotShowInfoMsg": true,
     "git.suggestSmartCommit": false,
     "git.confirmSync": false,
@@ -33,5 +30,32 @@ updated setting:
         "editor.tabCompletion": "onlySnippets",
         "editor.wordBasedSuggestions": false
     },
-    "window.zoomLevel": 1
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "workbench.editor.enablePreview": false,
+    "editor.inlineSuggest.enabled": true,
+    "zenMode.fullScreen": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "npm.keybindingsChangedWarningShown": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false,
+        "html": true,
+        "javascript": true,
+        "vue": true
+    },
+    "files.autoSave": "afterDelay",
+    "workbench.editor.splitInGroupLayout": "vertical",
+    "tabnine.experimentalAutoImports": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "git.autofetch": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "workbench.colorTheme": "Palenight Italic",
+    "workbench.iconTheme": "deepdark-material-icons",
 }
